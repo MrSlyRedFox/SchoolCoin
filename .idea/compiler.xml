@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="school_student_magazine_db" target="11" />
+      <module name="SchoolCoin" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
